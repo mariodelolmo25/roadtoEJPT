@@ -1,6 +1,4 @@
 <h1>1ª FASE: Enumerar</h1>
 <p>Herramientas</p>
-<li>
-  Nmap
-  Nessus
-  </li>
+<li>Nmap: Búsqueda de dispositivos y puertos en la red, vulnerabilidades y otros servicios.</li>
+<li>Gobuster: Enumeración de directorios en servidores web con ataques de fuerza bruta.</li>
