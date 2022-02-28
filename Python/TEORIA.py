@@ -70,7 +70,7 @@ else: # Ejecuta si no se cumple la condición del if ni elif
     print ("no miau ni guau")
   
     # Bucle: WHILE
-        # Mientras que la condición se cumpla se ejecuta contantemente hasta que no lo sea.
+        # Mientras que la condición se cumpla se ejecuta constantemente hasta que no lo sea.
 while x > 10 and x < 20:
     print ("Se cumple un ciclo hasta 10")
     
